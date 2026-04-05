@@ -1,0 +1,3 @@
+init numero 1 -> 10 
+init numero 2 - > 15
+init total - > N1 + N2
