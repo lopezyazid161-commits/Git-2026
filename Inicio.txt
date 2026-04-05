@@ -1,3 +1,6 @@
 init numero 1 -> 10 
 init numero 2 - > 15
 init total - > N1 + N2
+init totalResta -> N1 - N2
+int totalMulti -> N1 * N2
+int TotalDiv -> N1 / N2
